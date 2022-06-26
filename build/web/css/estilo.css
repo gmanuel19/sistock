@@ -1,0 +1,156 @@
+
+h1 {
+    margin-top: -40px;
+    text-align: center;
+    font-family:" Helvetica", "sans-serif";
+    color: black;
+}
+
+.dropdown {
+    max-width: 100%;
+    text-align: right;
+    margin-top: 50px;
+
+}
+
+.btnsair {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 14px;
+    line-height: 1px;
+    color: #ffff;
+    font-family: Helvetica;
+    width: 95px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 20px;
+    background-color: black;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+/* Menu*/
+
+.btns {
+    display: flex;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 500.px;
+    padding-left: 10px;
+}
+
+
+/* Login*/
+
+.card {
+    margin-top: 200px;
+    font-family: Helvetica;
+    color: #323232;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.image {
+    margin-top: 100px;
+    align-items: right;
+}
+
+
+
+
+/* Cadastro Usuário */
+
+.card-body-user {
+    margin-top: 200px;
+    font-family: Helvetica;
+    color: #323232;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 20px;
+
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.image {
+    margin-top: 100px;
+     
+}
+
+
+/* Cadastro Produto */
+
+.card-body-prod {
+    margin-top: 200px;
+    font-family: Helvetica;
+    color: #323232;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 20px;
+
+
+}
+
+.image {
+    margin-top: 100px;
+    align-items: right;
+}
+
+#botoesForm{
+    margin-top: 2%;
+}
+
+#menuForm{
+    background-color: #044cad;
+    text-align: center;
+}
+
+#formulario{
+    margin-top: 3%;
+}
+
+th{
+    font-weight: 600;
+}
+
+.nav .nav-link{
+    color: #ffffff;
+}
+
+.nav .nav-link:hover{
+    color: #d1cfcf;
+}
+
+
+
+
+
+
+
+
+
+
